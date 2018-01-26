@@ -1,0 +1,6 @@
+D:\NET\Projects\Lesson3\Task5\Cilindr\Cilindr\bin\Debug\Cilindr.exe.config
+D:\NET\Projects\Lesson3\Task5\Cilindr\Cilindr\bin\Debug\Cilindr.exe
+D:\NET\Projects\Lesson3\Task5\Cilindr\Cilindr\bin\Debug\Cilindr.pdb
+D:\NET\Projects\Lesson3\Task5\Cilindr\Cilindr\obj\Debug\Cilindr.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson3\Task5\Cilindr\Cilindr\obj\Debug\Cilindr.exe
+D:\NET\Projects\Lesson3\Task5\Cilindr\Cilindr\obj\Debug\Cilindr.pdb
